@@ -1,0 +1,9 @@
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.exe.config
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.exe
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.pdb
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.csprojAssemblyReference.cache
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.Form1.resources
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.csproj.GenerateResource.cache
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.exe
+C:\Users\ivanc\source\repos\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.pdb
